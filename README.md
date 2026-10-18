@@ -15,7 +15,7 @@ Aplicativo Android desenvolvido em **Kotlin** para calcular o Índice de Massa C
 
 - Kotlin
 - Android Studio
-- Android SDK 37
+- Android SDK 35 a 37
 - XML para as interfaces
 
 ## Como executar
