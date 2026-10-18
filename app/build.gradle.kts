@@ -6,7 +6,7 @@ plugins {
 android {
     namespace = "br.ufpr.imccalc"
     compileSdk {
-        version = release(37)
+        version = release(35)
     }
 
     defaultConfig {
