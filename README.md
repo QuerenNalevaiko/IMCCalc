@@ -1,4 +1,4 @@
-# IMCCalc
+# IMCCalc - Queren Nalevaiko de Carvalho
 
 Aplicativo Android desenvolvido em **Kotlin** para calcular o Índice de Massa Corporal (IMC).
 
@@ -15,7 +15,7 @@ Aplicativo Android desenvolvido em **Kotlin** para calcular o Índice de Massa C
 
 - Kotlin
 - Android Studio
-- Android SDK 34 ou 35
+- Android SDK 37
 - XML para as interfaces
 
 ## Como executar
