@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IMCCalc</string>
+
+    <string name="tvCalculadora">Calculadora IMC</string>"
+    <string name="tvResuldado">Resultado do IMC</string>
+    <string name="tvAltura">Altura (m)</string>
+    <string name="tvPeso">Peso (kg)</string>
+    <string name="tvResultado">Resultado do IMC</string>
+    <string name="tvCategoria">Categoria\n</string>
+    <string name="tvSeuImc">Seu IMC é: </string>
+
+
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="btnVoltar">Voltar</string>
+
+
+    <string name="hintCalculadora">Informe os dados para calcular o IMC.</string>
+    <string name="hintAltura">Ex:1.72</string>
+    <string name="hintPeso">Ex: 70.2</string>
+    <string name="hintResultado">Seu IMC é: </string>
+</resources>
